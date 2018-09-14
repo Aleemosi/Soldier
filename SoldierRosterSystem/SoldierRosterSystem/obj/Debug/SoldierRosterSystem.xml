@@ -1,0 +1,371 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SoldierRosterSystem
+</name>
+</assembly>
+<members>
+<member name="T:SoldierRosterSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Admin_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Ghost_Recon_Future_Soldier_1_Icon_256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.logout_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Soldier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SoldierRosterSystem.My.Resources.Resources.Soldier1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.AdminLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.MainLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblEmergencyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblFamilyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblLicenseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblNCOERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblPropertyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblRatingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblTrainingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.BMIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblmedprosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.AdminLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.MainLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblEmergencyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblFamilyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblLicenseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblNCOERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblPropertyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblRatingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblTrainingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.BMIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblmedprosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.AdminLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.MainLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblEmergencyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblFamilyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblLicenseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblNCOERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblPropertyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblRatingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblSoldierInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblTrainingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.BMIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSet.tblmedprosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.AdminLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.MainLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblEmergencyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblFamilyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblLicenseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblNCOERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblPropertyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblRatingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblSoldierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblSoldierInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblTrainingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.BMITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.tblmedprosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SoldierRosterSystem.Soldier_RosterDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SoldierRosterSystem.Soldier_RosterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SoldierRosterSystem.Soldier_RosterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.UpdateAll(SoldierRosterSystem.Soldier_RosterDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SoldierRosterSystem.Soldier_RosterDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

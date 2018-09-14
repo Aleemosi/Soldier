@@ -1,0 +1,38 @@
+Before running both SOLDIER ROSTER SYSTEM and OES Applications the program you will need to run first is AccessDataBaseEngine since 
+the both programs database is the MS Access For both softwares to work. UNZIP all files and save it into your desire locations in 
+your computer. 
+
+SOLDIER ROSTER SYSTEM INSTUCTIONS!!
+*****NOTE*********
+To run the executable file go to where you saved the folder then
+SoldierRosterSystem>SoldierRorsterSystem>bin>Debug and run the SoldierRosterSystem.exe
+The program is password protected.
+The username is: admin
+The username is: Pa$$w0rd
+If you would like to see the MS Database design go to
+SoldierRosterSystem>SoldierRosterSystem>Soldier Roster.accdb
+
+
+The Golden Rule Member Tracking MS Access is a stand alone database. It was my first experiment working with MS Acess. 
+
+
+OES Windwows Application form!!
+*****NOTE*********
+Again UNZIP the file and save it to your computer. Open the OES folder>OES Folder>Bin>Debug>Run OES.EXE
+If you are trying to view reports, that functionality is not working properly. But, if you would like to see
+how it works, the Soldier Roster System works fine. 
+Once you run the OES.EXE program it will start with username and password
+UserName: as
+Password: as
+If you would like to see the MS Database design go to
+OES>OES>OES.accdb
+
+Both Application, SOLDIER ROSTER SYSTEM and OES, databases are created using MS ACCESS
+
+Also, if you would like to know about muy website work, here's the website yorkstar167.org
+
+
+
+
+
+
